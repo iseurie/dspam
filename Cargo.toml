@@ -1,6 +1,6 @@
 [package]
 name = "dspam"
-version = "0.1.0"
+version = "1.0.0"
 authors = ["iseurie@gmail.com <iseurie@gmail.com>"]
 
 [dependencies]
