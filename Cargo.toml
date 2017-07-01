@@ -1,0 +1,9 @@
+[package]
+name = "dspam"
+version = "0.1.0"
+authors = ["iseurie@gmail.com <iseurie@gmail.com>"]
+
+[dependencies]
+clap = "2.25.0"
+discord = "0.8.0"
+time = "0.1.37"
